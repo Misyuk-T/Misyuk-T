@@ -21,7 +21,7 @@ Most of my commercial source code lives in **private GitLab repositories**. This
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [PoE2 Currency Flip Tracker](https://github.com/Misyuk-T/poe2-currency-flip-tracker) · [Live](https://poe2-currency-flip-tracker.vercel.app) | Backend-driven market analytics, hourly ingestion, historical signals, data provenance, and serverless deployment | Next.js, React, PostgreSQL, Supabase, Vercel |
+| [PoE2 Currency Flip Tracker](https://github.com/Misyuk-T/poe2-currency-flip-tracker) · [Live](https://exileradar.com) | Backend-driven market analytics, hourly ingestion, historical signals, data provenance, and serverless deployment | Next.js, React, PostgreSQL, Supabase, Vercel |
 | [BIM Dashboard](https://github.com/Misyuk-T/bim-dashboard) | SharePoint and Excel workflows, project data, IFC visualization, analytics, and role-aware access | React, TypeScript, Three.js/OpenBIM, Microsoft Graph, Supabase |
 | [Worklog Hub](https://github.com/Misyuk-T/redmine-logger) · [Live](https://redmine-scheduler-app.web.app/) | One workspace for comparing and transferring worklogs across Redmine, Jira, and ClickUp | React, Node.js, Express, Firebase, Chakra UI |
 | [Studio Kova](https://github.com/Misyuk-T/design-web-app) · [Live](https://design-web-app-topaz.vercel.app/uk) | Bilingual portfolio site with structured content, SEO, static rendering, and an optional Supabase content source | Next.js, React, TypeScript, Tailwind CSS, Supabase |
