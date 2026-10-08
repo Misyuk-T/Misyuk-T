@@ -1,4 +1,4 @@
-# Taras Misiuk
+# 🐾
 
 **Frontend Engineer · React · TypeScript · Next.js**
 
