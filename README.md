@@ -1,8 +1,7 @@
 # Taras Misiuk
 
-**Frontend Engineer · React · TypeScript · Next.js**  
-Ukraine · open to remote international product teams
+**Frontend Engineer building full products with AI agents**
 
-I've been building production web apps for 5+ years, with a focus on complex interfaces and data-heavy workflows. I started before AI coding tools became part of everyday development; today I use AI agents heavily, while still owning the architecture, decisions and final result.
+5+ years as a frontend engineer (React, TypeScript, Next.js) before AI became part of everyday development. Today I set up my own agent workflows and ship whole products with them: backend and frontend, Telegram bots, SEO and getting the product in front of people. The architecture and the final result are still on me.
 
 [LinkedIn](https://www.linkedin.com/in/taras-misiuk/) · [CV](https://misyuk-t.github.io/Misyuk-T/Misiuk_T_Frontend_CV.pdf) · [Email](mailto:misyuktaras@gmail.com)
